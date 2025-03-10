@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<HotelData>
+        <Customers>
+        <Customer>
+            <CustomerID>C001</CustomerID>
+            <Name>Gavin</Name>
+            <Address>123 Rizal St., Manila, Philippines</Address>
+            <CheckInTime>01/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>05/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6789</ContactNumber>
+            <RoomType Category="Deluxe Room" Rate="2,628.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Credit Card</PaymentMethod>
+                <PaymentDate>01/10/2025</PaymentDate>
+                <Amount Currency="PHP">15,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C002</CustomerID>
+            <Name>Stacey</Name>
+            <Address>456 Bonifacio St., Cebu, Philippines</Address>
+            <CheckInTime>02/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>06/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6790</ContactNumber>
+            <RoomType Category="Superior Deluxe" Rate="2,728.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Cash</PaymentMethod>
+                <PaymentDate>02/10/2025</PaymentDate>
+                <Amount Currency="PHP">7,500.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C003</CustomerID>
+            <Name>Ken</Name>
+            <Address>789 Quezon Ave., Davao, Philippines</Address>
+            <CheckInTime>03/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>07/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6791</ContactNumber>
+            <RoomType Category="Superior Executive" Rate="3,088.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Credit Card</PaymentMethod>
+                <PaymentDate>03/10/2025</PaymentDate>
+                <Amount Currency="PHP">10,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C004</CustomerID>
+            <Name>Lisa</Name>
+            <Address>321 Malate St., Manila, Philippines</Address>
+            <CheckInTime>04/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>08/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6792</ContactNumber>
+            <RoomType Category="Junior Suite" Rate="3,588.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Cash</PaymentMethod>
+                <PaymentDate>04/10/2025</PaymentDate>
+                <Amount Currency="PHP">5,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C005</CustomerID>
+            <Name>Mark</Name>
+            <Address>654 Taal St., Batangas, Philippines</Address>
+            <CheckInTime>05/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>09/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6793</ContactNumber>
+            <RoomType Category="Allure Suite" Rate="3,788.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Credit Card</PaymentMethod>
+                <PaymentDate>05/10/2025</PaymentDate>
+                <Amount Currency="PHP">12,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C006</CustomerID>
+            <Name>Anna</Name>
+            <Address>987 San Juan St., Quezon City, Philippines</Address>
+            <CheckInTime>06/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>10/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6794</ContactNumber>
+            <RoomType Category="Superior Deluxe" Rate="2,728.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Cash</PaymentMethod>
+                <PaymentDate>06/10/2025</PaymentDate>
+                <Amount Currency="PHP">8,500.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C007</CustomerID>
+            <Name>James</Name>
+            <Address>159 Pasig Blvd., Pasig City, Philippines</Address>
+            <CheckInTime>07/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>11/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6795</ContactNumber>
+            <RoomType Category="Junior Suite" Rate="3,588.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Credit Card</PaymentMethod>
+                <PaymentDate>07/10/2025</PaymentDate>
+                <Amount Currency="PHP">9,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C008</CustomerID>
+            <Name>Emily</Name>
+            <Address>258 Sta. Cruz St., Manila, Philippines</Address>
+            <CheckInTime>08/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>12/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6796</ContactNumber>
+            <RoomType Category="Allure Suite" Rate="3,788.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Cash</PaymentMethod>
+                <PaymentDate>08/10/2025</PaymentDate>
+                <Amount Currency="PHP">6,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C009</CustomerID>
+            <Name>Oliver</Name>
+            <Address>321 Bayani St., Taguig, Philippines</Address>
+            <CheckInTime>09/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>13/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6797</ContactNumber>
+            <RoomType Category="Deluxe Room" Rate="2,628.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Credit Card</PaymentMethod>
+                <PaymentDate>09/10/2025</PaymentDate>
+                <Amount Currency="PHP">15,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C010</CustomerID>
+            <Name>Sophia</Name>
+            <Address>654 Rizal St., Makati, Philippines</Address>
+            <CheckInTime>10/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>14/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6798</ContactNumber>
+            <RoomType Category="Superior Deluxe" Rate="2,728.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Cash</PaymentMethod>
+                <PaymentDate>10/10/2025</PaymentDate>
+                <Amount Currency="PHP">7,500.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C011</CustomerID>
+            <Name>Lucas</Name>
+            <Address>789 San Pedro St., Quezon City, Philippines</Address>
+            <CheckInTime>11/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>15/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6799</ContactNumber>
+            <RoomType Category="Superior Executive" Rate="3,088.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Credit Card</PaymentMethod>
+                <PaymentDate>11/10/2025</PaymentDate>
+                <Amount Currency="PHP">10,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C012</CustomerID>
+            <Name>Isabella</Name>
+            <Address>159 Sta. Ana St., Manila, Philippines</Address>
+            <CheckInTime>12/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>16/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6800</ContactNumber>
+            <RoomType Category="Junior Suite" Rate="3,588.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Cash</PaymentMethod>
+                <PaymentDate>12/10/2025</PaymentDate>
+                <Amount Currency="PHP">5,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C013</CustomerID>
+            <Name>Elijah</Name>
+            <Address>258 San Juan St., Cebu, Philippines</Address>
+            <CheckInTime>13/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>17/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6801</ContactNumber>
+            <RoomType Category="Allure Suite" Rate="3,788.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Credit Card</PaymentMethod>
+                <PaymentDate>13/10/2025</PaymentDate>
+                <Amount Currency="PHP">12,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C014</CustomerID>
+            <Name>Mia</Name>
+            <Address>321 Bonifacio St., Davao, Philippines</Address>
+            <CheckInTime>14/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>18/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6802</ContactNumber>
+            <RoomType Category="Deluxe Room" Rate="2,628.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Cash</PaymentMethod>
+                <PaymentDate>14/10/2025</PaymentDate>
+                <Amount Currency="PHP">15,000.00</Amount>
+            </Payment>
+        </Customer>
+        <Customer>
+            <CustomerID>C015</CustomerID>
+            <Name>James</Name>
+            <Address>654 Taal St., Batangas, Philippines</Address>
+            <CheckInTime>15/11/2025, 14:00:00</CheckInTime>
+            <CheckOutTime>19/11/2025, 12:00:00</CheckOutTime>
+            <ContactNumber>+63 912 345 6803</ContactNumber>
+            <RoomType Category ="Superior Deluxe" Rate="2,728.00" Currency="PHP"/>
+            <Payment>
+                <PaymentMethod>Credit Card</PaymentMethod>
+                <PaymentDate>15/10/2025</PaymentDate>
+                <Amount Currency="PHP">8,500.00</Amount>
+            </Payment>
+        </Customer>
+    </Customers>
+</HotelData>
